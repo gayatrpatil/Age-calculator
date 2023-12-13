@@ -11,3 +11,9 @@ Step6 : Adjust age for month and day:
             If Current Month == Birth Month and Current Day < Birth Day, decrement age by 1.
 Step7 : Display the calculated age.
 Step8 : End
+
+
+
+
+Run Command :
+python age_calculator.py
